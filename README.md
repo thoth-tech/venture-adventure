@@ -1,5 +1,11 @@
 # Venture Adventure
 
+1. Requires a [SplashKit installation](https://splashkit.io/installation/).
+2. Build using `skm clang++ *.cpp -o venture-adventure` while in the project folder.
+3. Run using `./venture-adventure` while in the project folder.
+
+_See also: usage documentation for [SplashKit](https://splashkit.io/guides/using-splashkit/0-overview/) and [skm](https://github.com/splashkit/skm/blob/master/README.MD)._
+
 ## Technical overview
 
 - **Language:** C++
